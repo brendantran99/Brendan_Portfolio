@@ -1,4 +1,4 @@
-# Brendan_Portfolio
+# Brendan Tran's Portfolio
 
 # [Advisory_Assistant](https://github.com/brendantran99/Senior-Project)
 Web application designed for University's Self Service website
